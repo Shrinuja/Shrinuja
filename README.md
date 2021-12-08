@@ -1,11 +1,17 @@
+![Data Analyst and Data Scientist](https://github.com/Shrinuja/Shrinuja/blob/main/OG-BLOG_data.jpg)
 ### Hi there 👋,  I am Shrinuja Srinoo
 #### Data Analyst and Data Scientist
-![Data Analyst and Data Scientist](https://github.com/Shrinuja/Shrinuja/blob/main/OG-BLOG_data.jpg)
 
 Data Scientist at Hewlett Packard Enterprise
 I love to try and learn new things. 
 
-Skills: Data Analysis, Machine learning, Selenium with Python, MySQL, Alteryx, PowerBI
+Skills: 
+Data Analysis
+Machine learning
+Selenium with Python
+MySQL
+Alteryx
+PowerBI
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning Web Development 
