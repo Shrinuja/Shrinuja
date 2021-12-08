@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋,  I am Shrinuja Srinoo
 
-<!--
-**Shrinuja/Shrinuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist at Hewlett Packard Enterprise
+I love to try and learn new things. 
 
-Here are some ideas to get you started:
+Skills: Data Analysis, Machine learning, Selenium with Python, MySQL, Alteryx, PowerBI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shrinuja-srinoo-b929581a4//)  
+
